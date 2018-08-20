@@ -1,0 +1,62 @@
+From 774eb4d1ff77c0c45abc2599d9d1701e885e1db7 Mon Sep 17 00:00:00 2001
+From: ralmnsk <ralmnsk@gmail.com>
+Date: Mon, 25 May 2020 20:30:13 +0300
+Subject: [PATCH] task7
+
+---
+ .firstFile.txt.un~ | Bin 1410 -> 2259 bytes
+ firstFile.txt      |   4 ++--
+ firstFile.txt~     |  12 ++++++++++++
+ 3 files changed, 14 insertions(+), 2 deletions(-)
+ create mode 100644 firstFile.txt~
+
+diff --git a/.firstFile.txt.un~ b/.firstFile.txt.un~
+index ab8ee7e1a73f8237d0a49a4781d3ad2765cbe9a2..35d136d5de72429638f7c9597712052072debb0e 100644
+GIT binary patch
+delta 259
+zcmZqTzATs&mYF+0G|wgfDFai^)7(E_pH4isvg^SWd;dO$qO$#*XJ7ORY4*peMSK2D
+zW?*380b)iIAi)Y^Krx670w5ZO8RE_`w6cIyFl|hXXJ%yCe2{rRqg?z2pa?Tm9gqS8
+z79a`2jGNV&(it7kFjRmwGBA9V0E)s?gRKUsGB#}l8w1jU3}9A6j8Q$q&;qd^Vhl(%
+O8xX^dF)?j?z6t<rLn_4p
+
+delta 146
+zcmcaC*u-5QmYF+0G|wgfDFf49<yD@RlfRcu;k(n{>b<|~+FYqy37HlFJvod#)4N}6
+zW?*380b*pp2;?wB1wb?mGsK<#eTfAm%g7La0jhurN`okf6a&M?21jN_hRuhV_cJm*
+GUj+bA`X5dJ
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 113fc8e..deaa9d8 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,8 +1,8 @@
+ git_1 1.txt
+ 1
+ 2
+-3
+-4
++3 update7
++4 update7
+ 5
+ 6
+ 7
+diff --git a/firstFile.txt~ b/firstFile.txt~
+new file mode 100644
+index 0000000..113fc8e
+--- /dev/null
++++ b/firstFile.txt~
+@@ -0,0 +1,12 @@
++git_1 1.txt
++1
++2
++3
++4
++5
++6
++7
++8
++9
++0
++
+-- 
+2.21.0.windows.1
+

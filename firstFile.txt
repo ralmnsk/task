@@ -1,10 +1,17 @@
 git_1 1.txt
 1
 2
+<<<<<<< HEAD
+3 update7
+4 update7
+5 update8
+6 update8
+=======
 3
 4
 5
 6
+>>>>>>> parent of 774eb4d... task7
 7
 8
 9
