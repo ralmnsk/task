@@ -9,5 +9,5 @@ git_1 2.txt
 6
 7
 8
-9
-0
+9 update19
+0 update19
