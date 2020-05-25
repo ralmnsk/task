@@ -5,8 +5,8 @@ git_1 1.txt
 4 update7
 5 update8
 6 update8
-7
-8
+7 update18
+8 update18
 9
 0
 
